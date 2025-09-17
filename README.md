@@ -4,7 +4,8 @@ Submission for FDE Technical Screen on initial application
 
 # How to Use
 Download `fde_technical_screen_sh.py` and place at root of project (OR in the same directory/folder as usecase file)
-Import with:
+
+Import with: <br>
 `from fde_technical_screen_sh import sort`
 
 # Parameters
